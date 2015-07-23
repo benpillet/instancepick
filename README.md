@@ -12,6 +12,7 @@ Determine which AWS EC2 instance type to use
 
 ## TODO
 - Turn into a gem
+- Add to travis-ci/rubygems/rubocop
 - Change how it pulls and don't use the usw gem anymore
 - add some specs
 - make verbose output show which axis passes: cpu, mem, net_bandwidth, etc
